@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntityModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EntityModelStoreContainer">
+    <EntitySet Name="RateSet" EntityType="EntityModel.Store.RateSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="AdminSet" EntityType="EntityModel.Store.AdminSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ClientSet" EntityType="EntityModel.Store.ClientSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ExpertSet" EntityType="EntityModel.Store.ExpertSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DetailNomenclatureSet" EntityType="EntityModel.Store.DetailNomenclatureSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="DetailNomenclatureRate" Association="EntityModel.Store.DetailNomenclatureRate">
+      <End Role="DetailNomenclature" EntitySet="DetailNomenclatureSet" />
+      <End Role="Rate" EntitySet="RateSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="RateSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Value" Type="float" Nullable="false" />
+    <Property Name="TimeOfCommit" Type="datetime" Nullable="false" />
+    <Property Name="DetailNomenclatureId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AdminSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserStatus" Type="int" Nullable="false" />
+    <Property Name="BinaryPhoto" Type="varbinary(max)" Nullable="false" />
+    <Property Name="LastOnline" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ClientSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserStatus" Type="int" Nullable="false" />
+    <Property Name="BinaryPhoto" Type="varbinary(max)" Nullable="false" />
+    <Property Name="LastOnline" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExpertSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UserStatus" Type="int" Nullable="false" />
+    <Property Name="BinaryPhoto" Type="varbinary(max)" Nullable="false" />
+    <Property Name="LastOnline" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DetailNomenclatureSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DetailType" Type="int" Nullable="false" />
+    <Property Name="TotalRate" Type="float" Nullable="false" />
+  </EntityType>
+  <Association Name="DetailNomenclatureRate">
+    <End Role="DetailNomenclature" Type="EntityModel.Store.DetailNomenclatureSet" Multiplicity="1" />
+    <End Role="Rate" Type="EntityModel.Store.RateSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DetailNomenclature">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Rate">
+        <PropertyRef Name="DetailNomenclatureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

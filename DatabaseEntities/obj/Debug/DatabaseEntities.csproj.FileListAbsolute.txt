@@ -1,0 +1,92 @@
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\Дмитрий\source\repos\Номенклатура методом парных сравнений (на примере деталей)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Номенклатура методом парных сравнений на примере деталей\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\Asus\source\repos\Curswork\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
